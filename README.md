@@ -7,7 +7,7 @@ This space is where I keep small tools, notes, and experiments that help me thin
 ---
 
 ## What I’m working on
-- Deepening AWS/Azure architecture fundamentals
+- Deepening AWS/Azure architecture fundamentals for Telecom/ERP Systems
 - Exploring practical AI patterns for enterprise and telecom systems  
 - Building small architecture tools, diagrams, and prototypes  
 
