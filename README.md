@@ -1,6 +1,6 @@
 # Rabindra
 
-I work across API platforms, enterprise integration, and telecom systems. Most of my experience is in connecting large platforms — SAP, Salesforce, ServiceNow, Amdocs, and internal network systems—and shaping the APIs and patterns that make those integrations reliable.
+I work across API platforms, enterprise systems, enterprise integration, and telecom connectivity. Most of my experience is in connecting large platforms — OMS, SAP, Salesforce, ServiceNow, Amdocs, SnowFlake and internal network systems—and shaping the APIs and patterns that make those integrations reliable.
 
 This space is where I keep small tools, notes, and experiments that help me think through architecture problems.
 
