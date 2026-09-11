@@ -34,9 +34,6 @@ A small service exploring clean API boundaries and containerized workflows.
 **AI Economics**  
 Lightweight diagrams and notes on how AI shifts incentives and system behavior.
 
-**AWS Cloud Practitioner Journey**  
-Structured notes while revisiting AWS fundamentals.
-
 ---
 
 ## Tools & technologies
