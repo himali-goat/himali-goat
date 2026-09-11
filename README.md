@@ -7,9 +7,11 @@ This space is where I keep small tools, notes, and experiments that help me thin
 ---
 
 ## What I’m working on
-- Deepening AWS/Azure architecture fundamentals for Telecom/ERP Systems
+- Deepening AWS/Azure architecture for enterprises
 - Exploring practical AI patterns for enterprise and telecom systems  
-- Building small architecture tools, diagrams, and prototypes  
+- Building small architecture tools, diagrams, and prototypes
+- Architecting and building Care Event Platform — an API-first, event-driven platform that transforms multimodal sensor observations into standardized Canonical Business Events, published via REST API and event streaming to downstream consumers
+  
 
 ---
 
