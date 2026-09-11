@@ -17,7 +17,7 @@ This space is where I keep small tools, notes, and experiments that help me thin
 
 ## Areas I’ve spent the most time in
 - API platforms, developer portals, partner integrations  
-- Enterprise integration across ERP, CRM, billing, and network systems  
+- Enterprise integration across OMS, ERP, CRM, billing, and network systems  
 - Telecom BSS/OSS, order management, billing, subscription lifecycle  
 - Event‑driven and microservices patterns  
 - Security, governance, and compliance for enterprise and federal use cases  
